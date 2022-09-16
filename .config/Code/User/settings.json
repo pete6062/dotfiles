@@ -1,0 +1,27 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.rulers": [80],
+    "editor.lineNumbers": "relative",
+
+    // editor
+    "editor.minimap.enabled": false,
+    "editor.inlayHints.enabled": "off",
+    "workbench.colorCustomizations": {
+        "terminal.foreground" : "#ffffff",
+        "terminal.background" : "#000000"
+    },
+    
+    // git
+    "git.terminalGitEditor": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    
+    // cmake
+    "cmake.configureOnOpen": true,
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+
+    // neovim
+    "workbench.list.automaticKeyboardNavigation": false,
+    "telemetry.telemetryLevel": "off",
+    "workbench.colorTheme": "Darcula - Dark Mode"
+  } 
