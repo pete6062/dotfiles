@@ -1,4 +1,6 @@
+#
 # ~/.bashrc
+#
 
 # umask {{{
 # set default permissions.
