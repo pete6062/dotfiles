@@ -5,21 +5,31 @@ nnoremap z= <Cmd>call VSCodeNotify('keyboard-quickfix.openQuickFix')<CR>
 " map leader key.
 let mapleader = ' '
 
-" build all
-nnoremap <leader>bb <Cmd>call VSCodeNotify('cmake.buildAll')<CR>
-xnoremap <leader>bb <Cmd>call VSCodeNotify('cmake.buildAll')<CR>
+" C++ with cmake
+" cmake build all
+nnoremap <leader>cb <Cmd>call VSCodeNotify('cmake.buildAll')<CR>
+xnoremap <leader>cb <Cmd>call VSCodeNotify('cmake.buildAll')<CR>
 
-" launch target
-nnoremap <leader>ll <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
-xnoremap <leader>ll <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
+" cmake launch target
+nnoremap <leader>cl <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
+xnoremap <leader>cl <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
 
-" select launch target
-nnoremap <leader>lt <Cmd>call VSCodeNotify('cmake.selectLaunchTarget')<CR>
-xnoremap <leader>lt <Cmd>call VSCodeNotify('cmake.selectLaunchTarget')<CR>
+" cmake select launch target
+nnoremap <leader>ct <Cmd>call VSCodeNotify('cmake.selectLaunchTarget')<CR>
+xnoremap <leader>ct <Cmd>call VSCodeNotify('cmake.selectLaunchTarget')<CR>
 
-" launch debugger
-nnoremap <leader>dd <Cmd>call VSCodeNotify('cmake.debugTarget')<CR>
-xnoremap <leader>dd <Cmd>call VSCodeNotify('cmake.debugTarget')<CR>
+" cmake launch debugger
+nnoremap <leader>cd <Cmd>call VSCodeNotify('cmake.debugTarget')<CR>
+xnoremap <leader>cd <Cmd>call VSCodeNotify('cmake.debugTarget')<CR>
+
+" general 
+" run without debugging
+nnoremap <leader>rr <Cmd>call VSCodeNotify('workbench.action.debug.run')<CR>
+xnoremap <leader>rr <Cmd>call VSCodeNotify('workbench.action.debug.run')<CR>
+
+" debug
+nnoremap <leader>dd <Cmd>call VSCodeNotify('workbench.action.debug.start')<CR>
+xnoremap <leader>dd <Cmd>call VSCodeNotify('workbench.action.debug.start')<CR>
 
 " debug step into
 nnoremap <leader>dj <Cmd>call VSCodeNotify('workbench.action.debug.stepInto')<CR>
