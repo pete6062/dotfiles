@@ -30,7 +30,7 @@ export EDITOR=nvim
 # was just recorded.
 export HISTCONTROL=ignoredups
 
+# set custom terminal prompt
 PS1="\[\033[0;33m\][\u@\h \W]$\[\033[0m\] "
 export PS1
 # }}}
-
