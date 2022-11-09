@@ -1,7 +1,7 @@
 [
     // Navigate Splits
     // 220825 JWP - these binds do not behave as expected in init.vim; must
-    // live in keybindings.json.
+    // live here in keybindings.json.
     {
         "key": "ctrl+h",
         "command": "workbench.action.navigateLeft"
