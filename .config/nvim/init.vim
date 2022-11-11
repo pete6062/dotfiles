@@ -90,7 +90,3 @@ xnoremap <leader>js <Cmd>call VSCodeNotify('workbench.view.search')<CR>
 " Jump to Source Control
 nnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
 xnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
-
-" PROJECT NAVIGATION
-" Go to previous
-nnoremap <leader>gp <Cmd>call VSCodeNotify('workbench.action.')<CR>
