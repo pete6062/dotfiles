@@ -23,5 +23,6 @@
     // neovim
     "workbench.list.automaticKeyboardNavigation": false,
     "telemetry.telemetryLevel": "off",
-    "workbench.colorTheme": "Darcula - Dark Mode"
+    "workbench.colorTheme": "Darcula - Dark Mode",
+    "workbench.startupEditor": "none"
   } 

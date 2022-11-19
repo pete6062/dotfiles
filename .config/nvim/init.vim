@@ -6,23 +6,25 @@ nnoremap z= <Cmd>call VSCodeNotify('keyboard-quickfix.openQuickFix')<CR>
 let mapleader = ' '
 
 " C++ WITH CMAKE
+" ################################################################################################
 " Build all
 nnoremap <leader>ba <Cmd>call VSCodeNotify('cmake.buildAll')<CR>
 xnoremap <leader>ba <Cmd>call VSCodeNotify('cmake.buildAll')<CR>
 
-" Launch target
-nnoremap <leader>lt <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
-xnoremap <leader>lt <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
-
 " Select launch target
 nnoremap <leader>st <Cmd>call VSCodeNotify('cmake.selectLaunchTarget')<CR>
 xnoremap <leader>st <Cmd>call VSCodeNotify('cmake.selectLaunchTarget')<CR>
+
+" Launch target
+nnoremap <leader>lt <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
+xnoremap <leader>lt <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
 
 " Debug target
 nnoremap <leader>dt <Cmd>call VSCodeNotify('cmake.debugTarget')<CR>
 xnoremap <leader>dt <Cmd>call VSCodeNotify('cmake.debugTarget')<CR>
 
 " DEBUGGING
+" ################################################################################################
 " Launch without debugging
 nnoremap <leader>dr <Cmd>call VSCodeNotify('workbench.action.debug.run')<CR>
 xnoremap <leader>dr <Cmd>call VSCodeNotify('workbench.action.debug.run')<CR>
@@ -64,6 +66,7 @@ nnoremap <leader>dw <Cmd>call VSCodeNotify('editor.debug.action.selectionToWatch
 xnoremap <leader>dw <Cmd>call VSCodeNotify('editor.debug.action.selectionToWatch')<CR>
 
 " WORKBENCH NAVIGATION
+" ################################################################################################
 nnoremap <leader>jj <Cmd>call VSCodeNotify('workbench.action.focusFirstEditorGroup')<CR>
 xnoremap <leader>jj <Cmd>call VSCodeNotify('workbench.action.focusFirstEditorGroup')<CR>
 
@@ -90,3 +93,9 @@ xnoremap <leader>js <Cmd>call VSCodeNotify('workbench.view.search')<CR>
 " Jump to Source Control
 nnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
 xnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
+
+" WORKBENCH GENERAL
+" ################################################################################################
+" Close active window
+nnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
+xnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
