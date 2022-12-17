@@ -3,15 +3,27 @@
     "editor.rulers": [80],
     "editor.lineNumbers": "relative",
 
-    // editor
+    // editor settings
     "editor.minimap.enabled": false,
     "editor.inlayHints.enabled": "off",
     "workbench.colorCustomizations": {
-
+        
+        // editor cursor.
         "editorCursor.foreground": "#fa8500",
+
+        // editor rulers color.
+        "editorRuler.foreground": "#444444",
+
+        // editor selection highlighting.
         "editor.selectionBackground": "#fa850021",
         "editor.selectionHighlightBackground": "#fa850021",
-        "editor.selectionHighlightBorder": "#ffa947",
+        "editor.selectionHighlightBorder": "#ffa94760",
+
+        // intellisense window colors
+        "editorSuggestWidget.selectedBackground": "#fa850021",
+        "editorSuggestWidget.highlightForeground": "#fa8500",
+        
+        // terminal colors.
         "terminal.foreground" : "#ffffff",
         "terminal.background" : "#000000"
     },
