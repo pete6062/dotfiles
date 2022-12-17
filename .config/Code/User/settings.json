@@ -23,6 +23,12 @@
     // neovim
     "workbench.list.automaticKeyboardNavigation": false,
     "telemetry.telemetryLevel": "off",
-    "workbench.colorTheme": "Darcula - Dark Mode",
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "files.exclude": {
+        "~/repos/engine/*": true,
+        "~/repos/gui/*": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Gray Theme",
+    "editor.bracketPairColorization.enabled": false
   } 
