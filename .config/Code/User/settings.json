@@ -7,6 +7,11 @@
     "editor.minimap.enabled": false,
     "editor.inlayHints.enabled": "off",
     "workbench.colorCustomizations": {
+
+        "editorCursor.foreground": "#fa8500",
+        "editor.selectionBackground": "#fa850021",
+        "editor.selectionHighlightBackground": "#fa850021",
+        "editor.selectionHighlightBorder": "#ffa947",
         "terminal.foreground" : "#ffffff",
         "terminal.background" : "#000000"
     },
