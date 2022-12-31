@@ -46,6 +46,6 @@
         "~/repos/gui/*": true
     },
     "explorer.confirmDragAndDrop": false,
-    "workbench.colorTheme": "Gray Theme",
+    "workbench.colorTheme": "Monochrome Dark",
     "editor.bracketPairColorization.enabled": false
   } 
