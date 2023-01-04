@@ -1,6 +1,0 @@
---memcheck:leak-check=yes
---show-reachable=yes
---gen-suppressions=all
---error-limit=no
---log-file=/home/jp/dev/minimalraw.log
---suppressions=/home/jp/dev/minimal.supp

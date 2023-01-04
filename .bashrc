@@ -2,6 +2,11 @@
 # ~/.bashrc
 #
 
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+alias ls='ls --color=auto'
+
 # umask {{{
 # set default permissions.
 umask 0022
@@ -18,13 +23,8 @@ alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
 # ENVIRONMENT VARIABLES {{{
 
-# c++ includes for projects:
-CPLUS_INCLUDE_PATH=~/repos/engine/include
-CPLUS_INCLUDE_PATH=$CPLUS_INCLUDE_PATH:~/repos/engine/src
-export CPLUS_INCLUDE_PATH
-
 # set the default editor.
-export EDITOR=nvim
+export EDITOR=vim
 
 # shell history recording ignores command if same command 
 # was just recorded.
