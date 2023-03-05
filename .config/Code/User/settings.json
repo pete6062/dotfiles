@@ -1,20 +1,36 @@
 {
+    // git
+    "git.terminalGitEditor": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    
+    // cmake
+    "cmake.configureOnOpen": true,
+
+    // neovim
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+
+    // vscode
+    "telemetry.telemetryLevel": "off",
+
     "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+
+    "editor.bracketPairColorization.enabled": false,
     "editor.rulers": [80],
     "editor.lineNumbers": "relative",
-
-    // editor settings
     "editor.minimap.enabled": false,
     "editor.inlayHints.enabled": "off",
+
     "workbench.colorCustomizations": {
         
-        // editor cursor.
+        // cursor color.
         "editorCursor.foreground": "#fa8500",
 
-        // editor rulers color.
+        // ruler color.
         "editorRuler.foreground": "#444444",
 
-        // editor selection highlighting.
+        // selection highlighting.
         "editor.selectionBackground": "#fa850021",
         "editor.selectionHighlightBackground": "#fa850021",
         "editor.selectionHighlightBorder": "#ffa94760",
@@ -27,25 +43,8 @@
         "terminal.foreground" : "#ffffff",
         "terminal.background" : "#000000"
     },
-    
-    // git
-    "git.terminalGitEditor": true,
-    "git.enableSmartCommit": true,
-    "git.confirmSync": false,
-    
-    // cmake
-    "cmake.configureOnOpen": true,
-    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
 
-    // neovim
     "workbench.list.automaticKeyboardNavigation": false,
-    "telemetry.telemetryLevel": "off",
     "workbench.startupEditor": "none",
-    "files.exclude": {
-        "~/repos/engine/*": true,
-        "~/repos/gui/*": true
-    },
-    "explorer.confirmDragAndDrop": false,
-    "workbench.colorTheme": "Monochrome Dark",
-    "editor.bracketPairColorization.enabled": false
+    "workbench.colorTheme": "Monochrome Dark"
   } 
