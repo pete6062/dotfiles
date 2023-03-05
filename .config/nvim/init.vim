@@ -5,6 +5,7 @@ nnoremap z= <Cmd>call VSCodeNotify('keyboard-quickfix.openQuickFix')<CR>
 " map leader key.
 let mapleader = ' '
 
+
 " C++ WITH CMAKE
 " ################################################################################################
 " Build all
@@ -22,6 +23,14 @@ xnoremap <leader>lt <Cmd>call VSCodeNotify('cmake.launchTarget')<CR>
 " Debug target
 nnoremap <leader>dt <Cmd>call VSCodeNotify('cmake.debugTarget')<CR>
 xnoremap <leader>dt <Cmd>call VSCodeNotify('cmake.debugTarget')<CR>
+
+
+" INTELLISENSE
+" ################################################################################################
+" Reset intellisense for active File
+nnoremap <leader>ir <Cmd>call VSCodeNotify('C_Cpp.RestartIntelliSenseForFile')<CR>
+xnoremap <leader>ir <Cmd>call VSCodeNotify('C_Cpp.RestartIntelliSenseForFile')<CR>
+
 
 " DEBUGGING
 " ################################################################################################
@@ -65,7 +74,8 @@ xnoremap <leader>dB <Cmd>call VSCodeNotify('workbench.debug.viewlet.action.remov
 nnoremap <leader>dw <Cmd>call VSCodeNotify('editor.debug.action.selectionToWatch')<CR>
 xnoremap <leader>dw <Cmd>call VSCodeNotify('editor.debug.action.selectionToWatch')<CR>
 
-" WORKBENCH NAVIGATION
+
+" WORKBENCH ACTIONS
 " ################################################################################################
 nnoremap <leader>jj <Cmd>call VSCodeNotify('workbench.action.focusFirstEditorGroup')<CR>
 xnoremap <leader>jj <Cmd>call VSCodeNotify('workbench.action.focusFirstEditorGroup')<CR>
@@ -94,8 +104,15 @@ xnoremap <leader>js <Cmd>call VSCodeNotify('workbench.view.search')<CR>
 nnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
 xnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
 
+
 " WORKBENCH GENERAL
 " ################################################################################################
 " Close active window
 nnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
 xnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
+
+
+" FIND
+" ################################################################################################
+" Find in files for word under cursor:
+nnoremap ? <Cmd>call VSCodeNotify('workbench.action.findInFiles', { 'query': expand('<cword>')})<CR>

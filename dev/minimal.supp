@@ -66,3 +66,15 @@
    ...
    fun:XrmGetStringDatabase
 }
+{
+   <obj:/usr/lib/libnvidia-glcore.so.525.85.05>
+   Memcheck:Leak
+   ... 
+   obj:/usr/lib/libnvidia-glcore.so.525.85.05
+}
+{
+   <obj:/usr/lib/libGLX_nvidia.so.525.85.05>
+   Memcheck:Leak
+   ...
+   obj:/usr/lib/libGLX_nvidia.so.525.85.05
+}
