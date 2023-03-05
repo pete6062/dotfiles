@@ -46,5 +46,6 @@
 
     "workbench.list.automaticKeyboardNavigation": false,
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Monochrome Dark"
+    "workbench.colorTheme": "Monochrome Dark",
+    "extensions.ignoreRecommendations": true
   } 
