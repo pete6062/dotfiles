@@ -4,7 +4,16 @@
 
 [[ -f ~/.bashrc ]] && . ~/.bashrc
 
-# PATH VARIABLES {{{
+# ENVIRONMENT VARIABLES {{{
+
+export EDITOR=vim
+export HISTCONTROL=ignoredups
+
+# set custom terminal prompt
+PS1="\[\033[0;37m\][\u@\h \W]$\[\033[0m\] "
+export PS1
+
+# set PATH
 PATH=$PATH:/usr/sbin
 PATH=$PATH:/sbin
 
@@ -18,6 +27,7 @@ if [[ -d $HOME/.local/bin ]]; then
 fi
 
 export PATH
+
 # }}}
 
 # AUTOSTART XORG DISPLAY SERVER ON TTY1 LOGIN {{{
