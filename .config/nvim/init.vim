@@ -111,6 +111,9 @@ xnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
 nnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
 xnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
 
+" Close other editors
+nnoremap <leader>wo <Cmd>call VSCodeNotify('workbench.action.closeOtherEditors')<CR>
+xnoremap <leader>wo <Cmd>call VSCodeNotify('workbench.action.closeOtherEditors')<CR>
 
 " FIND
 " ################################################################################################
