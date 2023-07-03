@@ -207,25 +207,8 @@ Plug 'tpope/vim-repeat'
 Plug 'vim-scripts/AutoComplPop'
 " }}}
 
-" GRUVBOX {{{
-" cool color scheme.
-Plug 'morhetz/gruvbox'
-
-" Handle gruvbox terminal display issues
-let g:gruvbox_italic=1		" force italics.
-
-" Fix 'off' colors.
-if (empty($TMUX))
-    if (has("termguicolors"))
-        set termguicolors
-    endif
-endif
-
-" Ensure all plugins are loaded completely before loading gruvbox.
-autocmd vimenter * ++nested colorscheme gruvbox			
-set background=dark		" setting dark mode.
-set t_ZH=[3m          " enable italics.
-set t_ZR=[23m         " enable italics.
+" NOFRILS THEME {{{
+Plug 'robertmeta/nofrils'
 
 " }}}
 
@@ -304,6 +287,12 @@ nnoremap <leader>do :call GotoWindow(g:vimspector_session_windows.output)<cr>
 " INIT ENVIRONMENT {{{
 " start with NERDTree. 
 autocmd VimEnter * NERDTree
+
+" configure color theme
+:colo nofrils-dark
+:let g:norfiles_strbackgrounds=1
+:let g:nofrils_heavycomments=1
+:let g:nofiles_heavylinenumbers=1
 
 " }}} 
 
