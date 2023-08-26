@@ -7,10 +7,6 @@
         "command": "workbench.action.navigateLeft"
     },
     {
-        "key": "ctrl+l",
-        "command": "workbench.action.navigateRight"
-    },
-    {
         "key": "ctrl+k",
         "command": "workbench.action.navigateUp"
     },

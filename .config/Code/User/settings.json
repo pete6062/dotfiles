@@ -47,5 +47,16 @@
     "workbench.list.automaticKeyboardNavigation": false,
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "Monochrome Dark",
-    "extensions.ignoreRecommendations": true
-  } 
+    "extensions.ignoreRecommendations": true,
+
+    // language specific settings
+
+    // disable autocomplete for .txt files
+    "[plaintext]": {
+        "editor.quickSuggestions": {
+            "other": false,
+            "comments": false,
+            "strings": false
+        }
+    }
+} 
