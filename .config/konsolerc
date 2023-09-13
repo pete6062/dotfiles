@@ -1,0 +1,39 @@
+2 screens: Height=552
+2 screens: Width=1022
+2 screens: XPosition=3633
+2 screens: YPosition=631
+DP-0 HDMI-0=DP-0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAASUBAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABiAEAAAMAAAP+AAAB/gAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAMAAAACAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAQP/////AAAAAAAAAAA=
+
+[Desktop Entry]
+DefaultProfile=custom_profile.profile
+
+[General]
+ConfigVersion=1
+
+[MainWindow]
+2 screens: Height=525
+2 screens: Width=909
+2 screens: XPosition=825
+2 screens: YPosition=473
+DP-0 HDMI-0=HDMI-0
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAASUBAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABiAEAAAMAAAONAAACDQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAMAAAACAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAAAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=TextOnly
+
+[MainWindow][Toolbar sessionToolbar]
+IconSize=16
+ToolButtonStyle=TextOnly
+
+[Toolbar mainToolBar]
+ToolButtonStyle=TextOnly
+
+[Toolbar sessionToolbar]
+IconSize=16
+ToolButtonStyle=TextOnly
+
+[UiSettings]
+ColorScheme=
