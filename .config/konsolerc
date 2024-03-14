@@ -13,12 +13,21 @@ DefaultProfile=custom_profile.profile
 ConfigVersion=1
 
 [MainWindow]
-2 screens: Height=525
-2 screens: Width=909
-2 screens: XPosition=825
-2 screens: YPosition=473
-DP-0 HDMI-0=HDMI-0
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAcAFMAUwBIAE0AYQBuAGEAZwBlAHIARABvAGMAawAAAAAA/////wAAASUBAAAD+wAAACIAUQB1AGkAYwBrAEMAbwBtAG0AYQBuAGQAcwBEAG8AYwBrAAAAAAD/////AAABiAEAAAMAAAONAAACDQAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAMAAAACAAAAHABzAGUAcwBzAGkAbwBuAFQAbwBvAGwAYgBhAHIAAAAAAP////8AAAAAAAAAAAAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+2 screens: Height=494
+2 screens: Width=995
+2 screens: XPosition=3342
+2 screens: YPosition=469
+2560x1440 screen: Height=514
+2560x1440 screen: Width=1577
+2560x1440 screen: XPosition=824
+2560x1440 screen: YPosition=459
+3 screens: Height=524
+3 screens: Width=989
+3 screens: XPosition=3345
+3 screens: YPosition=454
+DP-0=DP-0
+DP-0 DP-3 HDMI-0=DP-3
+DP-0 HDMI-0=DP-0
 ToolBarsMovable=Disabled
 
 [MainWindow][Toolbar mainToolBar]
