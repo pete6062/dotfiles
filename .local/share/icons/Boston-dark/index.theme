@@ -10,7 +10,7 @@ Example=folder
 
 #Inherits=Adwaita,gnome,hicolor,breeze,Arc,PiXflat,
 #Inherits=breeze-dark,Adwaita-Breeze-Dark,hicolor,Arc,PiXflat,
-Inherits=breeze-dark,hicolor,
+Inherits=breeze-dark-modified,hicolor,
 
 # KDE COMPATIBILITY
 # -----------------
