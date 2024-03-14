@@ -1,8 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-NegativeText { color: #da4453; } </style>
-    <g id="notification-progress-inactive" transform="translate(39 39) translate(-40,-40)">
-        <path id="path10" d="m1 1h22v22h-22z" fill="none"/>
-        <circle id="circle-transparent" cx="12" cy="12" r="8" class="ColorScheme-Text" fill="currentColor" opacity=".4"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="notification-progress-inactive.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="53.818182"
+     inkscape:cx="10.990709"
+     inkscape:cy="11"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-NegativeText { color: #da4453; } </style>
+  <g
+     id="notification-progress-inactive"
+     transform="translate(39 39) translate(-40,-40)">
+    <path
+       id="path10"
+       d="m1 1h22v22h-22z"
+       fill="none" />
+    <circle
+       id="circle-transparent"
+       cx="12"
+       cy="12"
+       r="8"
+       class="ColorScheme-Text"
+       fill="currentColor"
+       opacity=".4" />
+  </g>
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0185811;opacity:0.3"
+     d="M 10.544764,18.978905 C 8.2176706,18.847028 6.0307866,17.679736 4.6276785,15.820547 2.341331,12.791022 2.4937407,8.5813105 4.9929178,5.7322635 5.9014885,4.6964984 7.0445914,3.9239163 8.3521959,3.4618486 9.2219526,3.1545031 10.053294,3.01384 11,3.01384 c 0.927217,0 1.686572,0.1247647 2.573841,0.4228913 1.787339,0.6005548 3.342826,1.8639775 4.307718,3.4988841 1.828654,3.0984616 1.355944,7.0596716 -1.148795,9.6266426 -1.428809,1.464311 -3.272243,2.301515 -5.32398,2.417911 -0.360882,0.02047 -0.483628,0.02029 -0.86402,-0.0013 z"
+     id="path1" />
 </svg>

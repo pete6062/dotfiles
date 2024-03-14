@@ -1,9 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
-  <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-NegativeText { color: #da4453; } </style>
-  <g transform="translate(1,1)">
-    <g id="notification-empty" transform="translate(39 -41) translate(-40,40)">
-      <path id="path28" d="m1 1h22v22h-22z" fill="none"/>
-      <path id="circle-outline" d="m12 4a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z" class="ColorScheme-Text" fill="currentColor"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="notification-empty.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.333333"
+     inkscape:cx="11.989865"
+     inkscape:cy="12"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-NegativeText { color: #da4453; } </style>
+  <g
+     transform="translate(1,1)"
+     id="g1">
+    <g
+       id="notification-empty"
+       transform="translate(39 -41) translate(-40,40)">
+      <path
+         id="path28"
+         d="m1 1h22v22h-22z"
+         fill="none" />
+      <path
+         id="circle-outline"
+         d="m12 4a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 1a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7z"
+         class="ColorScheme-Text"
+         fill="currentColor" />
     </g>
   </g>
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0202703"
+     d="M 11.483108,19.97305 C 10.020246,19.881862 8.5554861,19.356122 7.3378378,18.485205 6.6436429,17.988685 5.9600029,17.297691 5.4632715,16.590474 4.2902613,14.920411 3.8001233,12.860295 4.0962254,10.844595 4.3053453,9.421022 4.8712245,8.1282476 5.7919216,6.9707072 6.0377828,6.6615997 6.6858776,6.0189251 7.0135135,5.759332 7.9066194,5.0517044 8.9143468,4.5484731 10.003378,4.2662757 10.68999,4.0883562 11.259568,4.0173734 12,4.0174496 c 1.309382,1.349e-4 2.481266,0.2819781 3.638514,0.8750788 0.73868,0.3785808 1.330552,0.8035298 1.923167,1.380784 1.322691,1.2884083 2.116431,2.8786088 2.367731,4.7435796 0.06133,0.455148 0.06655,1.458691 0.0099,1.89527 -0.101049,0.778219 -0.24317,1.334115 -0.526007,2.057433 -0.615176,1.57323 -1.816535,2.985041 -3.298406,3.876213 -1.102749,0.663175 -2.359145,1.05064 -3.663068,1.129669 -0.390394,0.02366 -0.556865,0.02324 -0.968689,-0.0024 z m 1.398649,-1.01824 c 0.858486,-0.119103 1.543571,-0.330144 2.280405,-0.702478 2.036036,-1.028844 3.439725,-2.976534 3.770779,-5.232148 C 19.193048,11.247961 18.767822,9.4439783 17.746423,7.9864865 16.717311,6.5179891 15.173153,5.4990836 13.43362,5.1407018 12.870286,5.0246429 12.675847,5.0066947 11.989865,5.0074331 c -0.670434,7.215e-4 -0.82884,0.014925 -1.378379,0.1235888 -2.5684913,0.5078865 -4.6751669,2.4715892 -5.3684516,5.0041131 -0.174118,0.636042 -0.2405494,1.134161 -0.2432999,1.824324 -0.00213,0.53391 0.016744,0.772617 0.099546,1.25917 0.2973378,1.747179 1.2856965,3.34382 2.7335089,4.415837 1.0273581,0.760697 2.2230506,1.217386 3.5286966,1.34777 0.271353,0.0271 1.255201,0.0093 1.520271,-0.02743 z"
+     id="path1" />
 </svg>

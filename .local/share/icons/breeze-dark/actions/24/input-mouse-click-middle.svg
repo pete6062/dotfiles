@@ -1,7 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" viewBox="0 0 24 24">
-  <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-Highlight { color: #3daee9; } </style>
-  <g transform="translate(1,1)">
-    <rect x="9" y="4" width="4" height="7" class="ColorScheme-Highlight" fill="currentColor" fill-rule="evenodd"/>
-    <path d="M10 3a5 5 0 0 0-5 5v6a5 5 0 0 0 5 5h2a5 5 0 0 0 5-5V8a5 5 0 0 0-5-5zm0 1h2a4 4 0 0 1 4 4v6a4 4 0 0 1-4 4h-2a4 4 0 0 1-4-4V8a4 4 0 0 1 4-4z" fill="currentColor" class="ColorScheme-Text"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   width="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="input-mouse-click-middle.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="49.333333"
+     inkscape:cx="11.989865"
+     inkscape:cy="12"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-Highlight { color: #3daee9; } </style>
+  <g
+     transform="translate(1,1)"
+     id="g1">
+    <rect
+       x="9"
+       y="4"
+       width="4"
+       height="7"
+       class="ColorScheme-Highlight"
+       fill="currentColor"
+       fill-rule="evenodd"
+       id="rect1" />
+    <path
+       d="M10 3a5 5 0 0 0-5 5v6a5 5 0 0 0 5 5h2a5 5 0 0 0 5-5V8a5 5 0 0 0-5-5zm0 1h2a4 4 0 0 1 4 4v6a4 4 0 0 1-4 4h-2a4 4 0 0 1-4-4V8a4 4 0 0 1 4-4z"
+       fill="currentColor"
+       class="ColorScheme-Text"
+       id="path1" />
   </g>
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0202703"
+     d="M 10.611486,19.975884 C 9.4519113,19.880345 8.3866131,19.400679 7.5556837,18.599965 6.7110477,17.786042 6.2262649,16.833958 6.0477704,15.638514 6.016154,15.426767 6.0125483,15.109134 6.0084228,12.172297 6.0059249,10.394088 6.0116169,8.8229282 6.0210717,8.6808316 6.0874307,7.6835205 6.4322471,6.7736479 7.059773,5.9399931 7.227496,5.7171767 7.751144,5.2002725 7.9906644,5.0210902 8.6688943,4.5137148 9.4265443,4.1951609 10.272664,4.0616235 c 0.256776,-0.040525 0.372166,-0.044567 1.51066,-0.052918 1.301252,-0.00954 1.646132,0.00309 2.072651,0.075918 0.971606,0.1659066 1.877371,0.6264084 2.590999,1.3172955 0.867856,0.8401997 1.364995,1.8436872 1.516415,3.0609193 0.02081,0.1673311 0.02648,0.9236115 0.02648,3.5371617 0,3.55094 0.0019,3.476957 -0.101807,3.993243 -0.198539,0.988531 -0.684047,1.871947 -1.420795,2.585239 -0.772509,0.747915 -1.657085,1.185214 -2.754425,1.361678 -0.244966,0.03939 -0.356254,0.04273 -1.581081,0.0474 -0.724662,0.0028 -1.408784,-0.0025 -1.520271,-0.01168 z m 2.966264,-1.012462 c 0.848747,-0.124869 1.588253,-0.487568 2.209121,-1.08349 0.665116,-0.638392 1.094659,-1.517489 1.199195,-2.454256 0.02836,-0.254143 0.0279,-6.5627574 -4.96e-4,-6.8441365 C 16.797958,6.722669 15.315558,5.2283988 13.449324,5.0169762 13.311165,5.0013243 12.810954,4.996333 11.878378,5.0013005 10.366317,5.0093547 10.382292,5.0081669 9.8918919,5.149001 8.3462106,5.592893 7.2217181,6.9134366 7.0226033,8.5185393 c -0.044184,0.3561734 -0.043581,6.5847617 6.73e-4,6.9579367 0.057839,0.487727 0.1778062,0.887026 0.3986263,1.326786 0.5976919,1.190295 1.7551542,2.005724 3.0901914,2.177032 0.07696,0.0099 0.737399,0.01907 1.467636,0.02043 1.221537,0.0023 1.349317,-7.09e-4 1.59802,-0.0373 z"
+     id="path2" />
 </svg>
