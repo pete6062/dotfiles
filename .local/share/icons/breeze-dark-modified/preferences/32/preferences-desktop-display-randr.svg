@@ -1,10 +1,74 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="32" height="32">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-PositiveText{color:#27ae60;}.ColorScheme-NeutralText{color:#f67400;}.ColorScheme-NegativeText { color: #da4453; } </style>
-    <g id="preferences-desktop-display-randr" transform="translate(-26,10)">
-        <rect id="rect3832-6" x="26" y="-10" width="32" height="32" fill-opacity="0"/>
-        <path id="rect7235-7" class="ColorScheme-Text" d="m35.011249 15h11.977502l0.011249 2h-11.977502zm3.988751-2h4v2h-4zm-9-18v18h22v-18zm1 1h20v14h-20z" fill="currentColor"/>
-        <path id="rect3018-5" class="ColorScheme-Text" d="m32 4 5 5h-5z" fill="currentColor"/>
-        <path id="path3028-3" class="ColorScheme-Text" d="m50 2-5-5h5z" fill="currentColor"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="preferences-desktop-display-randr.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="23.09375"
+     inkscape:cx="15.978349"
+     inkscape:cy="15.978349"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-PositiveText{color:#27ae60;}.ColorScheme-NeutralText{color:#f67400;}.ColorScheme-NegativeText { color: #da4453; } </style>
+  <g
+     id="preferences-desktop-display-randr"
+     transform="translate(-26,10)">
+    <rect
+       id="rect3832-6"
+       x="26"
+       y="-10"
+       width="32"
+       height="32"
+       fill-opacity="0" />
+    <path
+       id="rect7235-7"
+       class="ColorScheme-Text"
+       d="m35.011249 15h11.977502l0.011249 2h-11.977502zm3.988751-2h4v2h-4zm-9-18v18h22v-18zm1 1h20v14h-20z"
+       fill="currentColor" />
+    <path
+       id="rect3018-5"
+       class="ColorScheme-Text"
+       d="m32 4 5 5h-5z"
+       fill="currentColor" />
+    <path
+       id="path3028-3"
+       class="ColorScheme-Text"
+       d="m50 2-5-5h5z"
+       fill="currentColor" />
+  </g>
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0433018"
+     d="m 9.0500677,26.002706 v -0.99594 h 1.9918813 1.99188 V 23.989175 22.971583 H 8.5304465 4.0270636 V 13.986468 5.0013532 H 15.00406 25.981055 v 8.9851148 8.985115 H 21.477673 16.97429 v 1.017592 1.017591 h 1.9903 1.9903 l 0.01241,0.977973 c 0.0068,0.537886 0.0043,0.986059 -0.0056,0.995941 -0.0099,0.0099 -2.694091,0.01797 -5.964818,0.01797 H 9.0500677 Z M 25.028417,13.012179 V 5.9972936 H 15.00406 4.9797023 v 7.0148854 7.014885 H 15.00406 25.028417 Z"
+     id="path1" />
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0433018"
+     d="m 6.0189445,16.508938 v -2.478883 l 2.4682003,2.467915 c 1.3575101,1.357354 2.4682002,2.472851 2.4682002,2.478883 0,0.006 -1.1106901,0.01097 -2.4682002,0.01097 H 6.0189445 Z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0433018"
+     d="M 21.520974,9.4830853 19.074712,7.0365359 h 2.457231 2.457232 v 2.4465494 c 0,1.3456017 -0.0049,2.4465497 -0.01097,2.4465497 -0.006,0 -1.111787,-1.100948 -2.457231,-2.4465497 z"
+     id="path3" />
 </svg>
