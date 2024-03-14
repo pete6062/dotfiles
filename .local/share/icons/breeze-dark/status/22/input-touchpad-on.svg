@@ -1,8 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-PositiveText { color: #27ae60; } </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="input-touchpad-on.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="53.818182"
+     inkscape:cx="10.990709"
+     inkscape:cy="11"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-PositiveText { color: #27ae60; } </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 4 18 L 4 4 z M 5 15 L 5 17 L 10 17 L 10 15 L 5 15 z M 12 15 L 12 17 L 17 17 L 17 15 L 12 15 z " class="ColorScheme-Text"/> 
- <path style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-PositiveText" d="M 11 6 A 4 4 0 0 0 7 10 A 4 4 0 0 0 11 14 A 4 4 0 0 0 15 10 A 4 4 0 0 0 11 6 z M 11 7 C 12.662 7 14 8.338 14 10 C 14 11.662 12.662 13 11 13 C 9.338 13 8 11.662 8 10 C 8 8.338 9.338 7 11 7 z M 11 9 A 1 1 0 0 0 10 10 A 1 1 0 0 0 11 11 A 1 1 0 0 0 12 10 A 1 1 0 0 0 11 9 z "/>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="M 3 3 L 3 19 L 19 19 L 19 3 L 3 3 z M 4 4 L 18 4 L 18 18 L 4 18 L 4 4 z M 5 15 L 5 17 L 10 17 L 10 15 L 5 15 z M 12 15 L 12 17 L 17 17 L 17 15 L 12 15 z "
+     class="ColorScheme-Text"
+     id="path1" />
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-PositiveText"
+     d="M 11 6 A 4 4 0 0 0 7 10 A 4 4 0 0 0 11 14 A 4 4 0 0 0 15 10 A 4 4 0 0 0 11 6 z M 11 7 C 12.662 7 14 8.338 14 10 C 14 11.662 12.662 13 11 13 C 9.338 13 8 11.662 8 10 C 8 8.338 9.338 7 11 7 z M 11 9 A 1 1 0 0 0 10 10 A 1 1 0 0 0 11 11 A 1 1 0 0 0 12 10 A 1 1 0 0 0 11 9 z "
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke-width:0.0185811"
+     d="m 12.003378,15.998311 v -0.994088 h 2.489865 2.489865 v 0.994088 0.994088 h -2.489865 -2.489865 z"
+     id="path3" />
+  <path
+     style="fill:#ffffff;stroke-width:0.0185811"
+     d="m 5.0168919,15.998311 v -0.994088 h 2.4898649 2.4898648 v 0.994088 0.994088 H 7.5067568 5.0168919 Z"
+     id="path4" />
+  <path
+     style="fill:#ffffff;stroke-width:0.0185811"
+     d="M 3.0101351,11 V 3.0008446 H 11 18.989865 V 11 18.999155 H 11 3.0101351 Z M 18.005068,11 V 3.9856419 H 11 3.9949324 V 11 18.014358 H 11 18.005068 Z"
+     id="path5" />
 </svg>
