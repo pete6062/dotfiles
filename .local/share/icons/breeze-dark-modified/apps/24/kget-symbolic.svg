@@ -1,11 +1,90 @@
-<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="24" height="24" version="1.1" id="svg6" sodipodi:docname="kget.svg" inkscape:version="1.2.2 (b0a8486541, 2022-12-01)" viewBox="0 0 24 24">
-  <defs id="defs10"/>
-  <namedview id="namedview8" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" inkscape:deskcolor="#d1d1d1" showgrid="false" inkscape:zoom="35.136364" inkscape:cx="9.4773609" inkscape:cy="10.98577" inkscape:window-width="1920" inkscape:window-height="1011" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg6"/>
-  <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#31363b;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#3daee9;}.ColorScheme-ViewText{color:#31363b;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ViewHover{color:#93cee9;}.ColorScheme-ViewFocus{color:#3daee9;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover{color:#93cee9;}.ColorScheme-ButtonFocus { color: #3daee9; } </style>
-  <g transform="translate(1,1)">
-    <g id="kget" transform="translate(-326,-534.36218)">
-      <rect y="534.36218" x="326" height="22" width="22" id="rect4148" style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-      <path id="rect4170" transform="translate(326,534.36218)" d="m 9,3 v 1 4 1 2 h 1 V 4 h 2 v 7 h 1 V 9 8 4 3 Z M 6.7578125,10.34375 6.0507812,11.050781 11,16 15.949219,11.050781 15.242188,10.34375 11,14.585938 Z M 5,17 v 2 h 1 10 1 v -2 h -1 v 1 H 6 v -1 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.550265" inkscape:connector-curvature="0" class="ColorScheme-Text"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="kget-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   viewBox="0 0 24 24"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="30.791667"
+     inkscape:cx="11.983762"
+     inkscape:cy="11.983762"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <defs
+     id="defs10" />
+  <namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="35.136364"
+     inkscape:cx="9.4773609"
+     inkscape:cy="10.98577"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#31363b;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#3daee9;}.ColorScheme-ViewText{color:#31363b;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ViewHover{color:#93cee9;}.ColorScheme-ViewFocus{color:#3daee9;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover{color:#93cee9;}.ColorScheme-ButtonFocus { color: #3daee9; } </style>
+  <g
+     transform="translate(1,1)"
+     id="g1">
+    <g
+       id="kget"
+       transform="translate(-326,-534.36218)">
+      <rect
+         y="534.36218"
+         x="326"
+         height="22"
+         width="22"
+         id="rect4148"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         id="rect4170"
+         transform="translate(326,534.36218)"
+         d="m 9,3 v 1 4 1 2 h 1 V 4 h 2 v 7 h 1 V 9 8 4 3 Z M 6.7578125,10.34375 6.0507812,11.050781 11,16 15.949219,11.050781 15.242188,10.34375 11,14.585938 Z M 5,17 v 2 h 1 10 1 v -2 h -1 v 1 H 6 v -1 z"
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.550265"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-Text" />
     </g>
   </g>
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0324763"
+     d="m 9.5395882,14.508466 -2.4602521,-2.460412 0.3414962,-0.340334 0.3414962,-0.340334 2.1188974,2.118712 2.1188971,2.118712 2.11894,-2.118939 2.118939,-2.118939 0.341026,0.341026 0.341026,0.341025 -2.460107,2.459947 -2.460107,2.459948 z"
+     id="path1" />
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0324763"
+     d="M 10.002706,8.0054127 V 4.0108254 H 12 13.997294 V 8.0054127 12 H 13.510149 13.023004 V 8.4925575 4.985115 H 12 10.976996 V 8.4925575 12 h -0.487145 -0.487145 z"
+     id="path2" />
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0324763"
+     d="m 6.0081191,18.998647 v -0.990528 h 0.4871448 0.4871448 v 0.503383 0.503383 H 12 17.017591 v -0.503383 -0.503383 h 0.487145 0.487145 v 0.990528 0.990528 H 12 6.0081191 Z"
+     id="path3" />
 </svg>

@@ -1,9 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="24" height="24" viewBox="0 0 24 24">
-  <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-PositiveText{color:#27ae60;}.ColorScheme-NeutralText{color:#f67400;}.ColorScheme-NegativeText { color: #da4453; } </style>
-  <g transform="translate(1,1)">
-    <g id="22-22-preferences-system-bluetooth" transform="translate(-22,94) translate(-44,-94)">
-      <rect id="rect4645" x="66" width="22" height="22" fill="none"/>
-      <path id="rect4163-9" class="ColorScheme-Text" d="m76.998047 3v7.041013l-3.292969-3.2929692-2e-3 0.00195c-0.355749-0.3559538-0.996047-0.9960876-0.996047-0.9960876l-0.707031 0.7070313 4.544922 4.5410155-4.544922 4.541016 0.707031 0.707031s0.640351-0.640094 0.996094-0.996094h2e-3l3.294875-3.292968v7.039062h1l4-4-4-4 4-4-4-4zm1.001953 1.4160156 2.585938 2.5859375-2.585938 2.5859375zm0 8.0000004 2.585938 2.585937-2.585938 2.585938z" fill="currentColor"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="preferences-system-bluetooth-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="30.791667"
+     inkscape:cx="11.983762"
+     inkscape:cy="11.983762"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ButtonFocus{color:#3daee9;}.ColorScheme-PositiveText{color:#27ae60;}.ColorScheme-NeutralText{color:#f67400;}.ColorScheme-NegativeText { color: #da4453; } </style>
+  <g
+     transform="translate(1,1)"
+     id="g1">
+    <g
+       id="22-22-preferences-system-bluetooth"
+       transform="translate(-22,94) translate(-44,-94)">
+      <rect
+         id="rect4645"
+         x="66"
+         width="22"
+         height="22"
+         fill="none" />
+      <path
+         id="rect4163-9"
+         class="ColorScheme-Text"
+         d="m76.998047 3v7.041013l-3.292969-3.2929692-2e-3 0.00195c-0.355749-0.3559538-0.996047-0.9960876-0.996047-0.9960876l-0.707031 0.7070313 4.544922 4.5410155-4.544922 4.541016 0.707031 0.707031s0.640351-0.640094 0.996094-0.996094h2e-3l3.294875-3.292968v7.039062h1l4-4-4-4 4-4-4-4zm1.001953 1.4160156 2.585938 2.5859375-2.585938 2.5859375zm0 8.0000004 2.585938 2.585937-2.585938 2.585938z"
+         fill="currentColor" />
     </g>
   </g>
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0324763"
+     d="M 12.016238,16.457466 V 12.925758 L 9.864346,15.077468 7.7124538,17.229177 7.3721225,16.887684 7.0317912,16.54619 9.3047125,14.273095 11.577634,12 9.3047125,9.7269048 7.0317912,7.4538096 7.3721225,7.1123159 7.7124538,6.7708224 9.864346,8.922532 l 2.151892,2.15171 V 7.5425336 4.0108254 h 0.479125 0.479125 L 14.971583,6.0081191 16.968679,8.0054127 14.971583,10.002706 12.974488,12 l 1.997095,1.997294 1.997096,1.997293 -1.997096,1.997294 -1.997095,1.997294 h -0.479125 -0.479125 z m 2.281411,-1.77 -1.307121,-1.307121 v 2.614242 2.614243 l 1.307121,-1.307121 1.307121,-1.307122 z m 0,-7.9891747 -1.307121,-1.3071214 V 8.0054127 10.619655 L 14.297649,9.3125342 15.60477,8.0054127 Z"
+     id="path1" />
 </svg>

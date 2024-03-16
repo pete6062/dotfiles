@@ -1,8 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#31363b;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#3daee9;}.ColorScheme-ViewText{color:#31363b;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ViewHover{color:#93cee9;}.ColorScheme-ViewFocus{color:#3daee9;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover{color:#93cee9;}.ColorScheme-ButtonFocus { color: #3daee9; } </style>
-    <g id="wallet-open">
-    <path id="rect4188" d="M 3,3 3,7 2,7 2,8 2,18 c 0,0.554 0.446,1 1,1 l 16,0 1,0 0,-1 0,-10 C 20,7.446 19.554,7 19,7 l -5,0 0,-4 z m 1,1 9,0 0,3 -2.507812,0 C 10.021704,6.3726797 9.284143,6.0024532 8.5,6 7.7137941,6.0006144 6.9736765,6.3710349 6.5019531,7 L 4,7 Z M 3,8 4,8 6.0507812,8 10.945312,8 13,8 l 1,0 5,0 0,3 -2,0 -5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 l 5,0 2,0 0,3 -16,0 z m 10,4 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccsscccssccccccccccccccccccccssscccccsssss" class="ColorScheme-Text"/>
-    <rect y="0" x="0" height="22" width="22" id="rect4216" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="wallet-open.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="33.590909"
+     inkscape:cx="10.985115"
+     inkscape:cy="10.985115"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#31363b;}.ColorScheme-Background{color:#eff0f1;}.ColorScheme-Highlight{color:#3daee9;}.ColorScheme-ViewText{color:#31363b;}.ColorScheme-ViewBackground{color:#fcfcfc;}.ColorScheme-ViewHover{color:#93cee9;}.ColorScheme-ViewFocus{color:#3daee9;}.ColorScheme-ButtonText{color:#31363b;}.ColorScheme-ButtonBackground{color:#eff0f1;}.ColorScheme-ButtonHover{color:#93cee9;}.ColorScheme-ButtonFocus { color: #3daee9; } </style>
+  <g
+     id="wallet-open">
+    <path
+       id="rect4188"
+       d="M 3,3 3,7 2,7 2,8 2,18 c 0,0.554 0.446,1 1,1 l 16,0 1,0 0,-1 0,-10 C 20,7.446 19.554,7 19,7 l -5,0 0,-4 z m 1,1 9,0 0,3 -2.507812,0 C 10.021704,6.3726797 9.284143,6.0024532 8.5,6 7.7137941,6.0006144 6.9736765,6.3710349 6.5019531,7 L 4,7 Z M 3,8 4,8 6.0507812,8 10.945312,8 13,8 l 1,0 5,0 0,3 -2,0 -5,0 c -1.108,0 -2,0.892 -2,2 0,1.108 0.892,2 2,2 l 5,0 2,0 0,3 -16,0 z m 10,4 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsscccssccccccccccccccccccccssscccccsssss"
+       class="ColorScheme-Text" />
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect4216"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none" />
   </g>
+  <path
+     style="opacity:1;fill:#ffffff;stroke:#cccccc;stroke-width:0.02977"
+     d="M 2.6910942,18.936129 C 2.5139809,18.880695 2.3075912,18.728506 2.2026191,18.575934 2.0112116,18.297733 2.0243572,18.738137 2.0243572,12.603835 V 7.0108254 H 2.5155616 3.0067659 V 5.0162382 3.0216509 h 5.4925575 5.4925576 v 1.993809 1.9938089 l 2.627199,0.00822 c 2.621105,0.0082 2.627522,0.00837 2.766393,0.07255 0.18765,0.086723 0.399724,0.2877907 0.496082,0.4703344 l 0.0792,0.1500451 0.0077,5.6339647 0.0077,5.633965 -8.581495,-0.002 c -6.9001372,-0.0016 -8.6054308,-0.0095 -8.7036618,-0.04023 z m 16.3247398,-2.435346 0.0077,-1.510043 -3.69919,-0.0082 -3.69919,-0.0082 -0.25655,-0.09185 c -0.494478,-0.177031 -0.893906,-0.518608 -1.123587,-0.960853 -0.162638,-0.313156 -0.221157,-0.552856 -0.222677,-0.912116 -0.0039,-0.920284 0.568611,-1.66895 1.483734,-1.940287 0.16623,-0.04929 0.433122,-0.05359 3.847768,-0.06207 l 3.669147,-0.0091 V 9.4956159 7.9932341 H 11 2.9769959 v 4.9963919 c 0,2.748015 0.00896,5.005347 0.019901,5.016292 0.010946,0.01095 3.6179483,0.01653 8.0155621,0.0124 l 7.99566,-0.0075 z m -5.588993,-2.58867 c 0.381091,-0.176413 0.630416,-0.615747 0.579797,-1.021654 -0.02585,-0.207319 -0.170861,-0.493771 -0.316615,-0.625451 -0.204355,-0.184622 -0.417178,-0.266037 -0.695436,-0.266037 -0.194812,0 -0.269025,0.01432 -0.407744,0.07865 -0.207818,0.09638 -0.403704,0.287162 -0.498298,0.4853 -0.103486,0.216761 -0.118722,0.567653 -0.03436,0.791266 0.10646,0.282183 0.353388,0.517666 0.642702,0.612914 0.1868,0.0615 0.534973,0.03527 0.729953,-0.05499 z M 6.735601,6.7631552 C 7.3563549,6.1367979 8.220715,5.8859338 9.0666498,6.0866129 9.5531559,6.2020254 10.083729,6.52175 10.369381,6.8716411 l 0.113631,0.1391843 h 1.26323 1.26323 V 5.4925575 3.9742896 H 8.4993234 3.9891746 v 1.5182679 1.5182679 h 1.2504859 1.2504857 z"
+     id="path1" />
 </svg>

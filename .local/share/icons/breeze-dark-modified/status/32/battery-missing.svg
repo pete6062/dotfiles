@@ -1,10 +1,68 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-NegativeText { color: #da4453; } </style>
-    <g class="ColorScheme-Text" fill="currentColor">
-        <path d="M3 10v12h25v-3c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1v-3zm1 1h23v10H4z"/>
-        <path d="M5 12h21v8H5z"/>
-    </g>
-    <rect class="ColorScheme-NegativeText" fill="currentColor" height="10" rx="1" width="10" x="22" y="16"/>
-    <path d="M24.707 18l-.707.707L26.293 21 24 23.293l.707.707L27 21.707 29.293 24l.707-.707L27.707 21 30 18.707 29.293 18 27 20.293z" fill="#fcfcfc"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="32"
+   width="32"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="battery-missing.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="23.09375"
+     inkscape:cx="15.978349"
+     inkscape:cy="15.978349"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-NegativeText { color: #da4453; } </style>
+  <g
+     class="ColorScheme-Text"
+     fill="currentColor"
+     id="g2">
+    <path
+       d="M3 10v12h25v-3c.554 0 1-.446 1-1v-4c0-.554-.446-1-1-1v-3zm1 1h23v10H4z"
+       id="path1" />
+    <path
+       d="M5 12h21v8H5z"
+       id="path2" />
+  </g>
+  <rect
+     class="ColorScheme-NegativeText"
+     fill="currentColor"
+     height="10"
+     rx="1"
+     width="10"
+     x="22"
+     y="16"
+     id="rect2" />
+  <path
+     d="M24.707 18l-.707.707L26.293 21 24 23.293l.707.707L27 21.707 29.293 24l.707-.707L27.707 21 30 18.707 29.293 18 27 20.293z"
+     fill="#fcfcfc"
+     id="path3" />
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0433018"
+     d="M 5.0230041,16 V 12.016238 H 15.50203 25.981055 V 14.008119 16 l -1.634641,4.06e-4 -1.634641,4.07e-4 -0.226777,0.130056 c -0.166998,0.09577 -0.26106,0.189835 -0.356833,0.356833 l -0.130057,0.226777 -4.06e-4,1.634641 -4.06e-4,1.634642 H 13.510149 5.0230041 Z"
+     id="path4" />
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0433018"
+     d="M 3.0311231,16 V 10.024357 H 15.50203 27.972936 v 1.489092 1.489091 l 0.160368,0.03009 c 0.346415,0.06499 0.642723,0.294534 0.768323,0.595212 0.05484,0.13128 0.06725,0.365025 0.06725,1.266576 V 16 h -0.97429 -0.974289 V 13.488498 10.976996 H 15.50203 3.9837618 V 16 21.023004 h 9.0067662 9.006766 v 0.476319 0.47632 H 12.514208 3.0311231 Z"
+     id="path5" />
 </svg>

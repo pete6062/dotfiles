@@ -1,7 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-NeutralText { color: #f67400; } </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="input-caps-on.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="46.1875"
+     inkscape:cx="7.9891746"
+     inkscape:cy="7.9891746"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-NeutralText { color: #f67400; } </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" d="M 8 2 L 2 8 L 5 8 L 5 14 L 11 14 L 11 8 L 14 8 L 8 2 z M 8 3.4140625 L 11.585938 7 L 10 7 L 10 8 L 10 13 L 6 13 L 6 8 L 6 7 L 4.4140625 7 L 8 3.4140625 z " class="ColorScheme-Text"/> 
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="M 8 2 L 2 8 L 5 8 L 5 14 L 11 14 L 11 8 L 14 8 L 8 2 z M 8 3.4140625 L 11.585938 7 L 10 7 L 10 8 L 10 13 L 6 13 L 6 8 L 6 7 L 4.4140625 7 L 8 3.4140625 z "
+     class="ColorScheme-Text"
+     id="path1" />
+  <path
+     style="fill:#ffffff;stroke:#cccccc;stroke-width:0.0216509"
+     d="M 5.0013532,10.998647 V 8 H 3.5128846 2.0244161 l 2.9877625,-2.9878214 2.9877627,-2.9878215 2.9824707,2.9824088 2.98247,2.9824087 -1.483117,0.00556 -1.483118,0.00556 V 10.998792 13.99729 H 8 5.0013532 Z M 10.002706,10.002706 V 7.0040595 h 0.790257 c 0.434642,0 0.790258,-0.00729 0.790258,-0.016189 0,-0.027043 -3.5598604,-3.5781187 -3.5831719,-3.57433 -0.011935,0.00194 -0.8254228,0.8106 -1.807751,1.7970229 l -1.786051,1.7934963 h 0.7955233 0.7955232 v 2.9986463 2.998647 H 8 10.002706 Z"
+     id="path2" />
 </svg>
