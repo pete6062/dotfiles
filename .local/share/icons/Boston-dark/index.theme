@@ -8,9 +8,7 @@ Comment=Minimalist and functional icon dark theme.
 
 Example=folder
 
-#Inherits=Adwaita,gnome,hicolor,breeze,Arc,PiXflat,
-#Inherits=breeze-dark,Adwaita-Breeze-Dark,hicolor,Arc,PiXflat,
-Inherits=breeze-dark-modified,hicolor,
+Inherits=breeze-dark-modified,hicolor
 
 # KDE COMPATIBILITY
 # -----------------

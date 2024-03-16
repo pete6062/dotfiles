@@ -5,7 +5,6 @@ Comment=Breeze Dark by the KDE VDG Modified
 
 DisplayDepth=32
 
-#Inherits=breeze-modified,hicolor
 Inherits=hicolor
 
 Example=folder
