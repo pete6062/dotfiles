@@ -171,42 +171,48 @@ Type=Scalable
 [48/actions]
 Context=Actions
 Size=48
-MinSize=24
+#MinSize=24
+MinSize=22
 MaxSize=48
 Type=Scalable
 
 [48/apps]
 Context=Applications
 Size=48
-MinSize=24
+#MinSize=24
+MinSize=22
 MaxSize=48
 Type=Scalable
 
 [48/devices]
 Context=Devices
 Size=48
-MinSize=24
+#MinSize=24
+MinSize=22
 MaxSize=48
 Type=Scalable
 
 [48/mimes]
 Context=Mimetypes
 Size=48
-MinSize=24
+#MinSize=24
+MinSize=22
 MaxSize=48
 Type=Scalable
 
 [48/places]
 Context=Places
 Size=48
-MinSize=24
+#MinSize=24
+MinSize=22
 MaxSize=48
 Type=Scalable
 
 [48/status]
 Context=Status
 Size=48
-MinSize=24
+#MinSize=24
+MinSize=22
 MaxSize=48
 Type=Scalable
 
