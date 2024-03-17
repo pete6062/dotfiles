@@ -44,8 +44,7 @@ Type=Scalable
 [legacy/48]
 Context=Legacy
 Size=48
-#MinSize=24
-MinSize=22
+MinSize=24
 MaxSize=48
 Type=Scalable
 
@@ -53,7 +52,7 @@ Type=Scalable
 Context=Legacy
 Size=16
 MinSize=8
-MaxSize=18
+MaxSize=22
 Type=Scalable
 
 # ------------SCALABLE------------
@@ -172,84 +171,92 @@ Type=Scalable
 [48/actions]
 Context=Actions
 Size=48
-#MinSize=24
-MinSize=22
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/apps]
 Context=Applications
 Size=48
-#MinSize=24
-MinSize=22
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/devices]
 Context=Devices
 Size=48
-#MinSize=24
-MinSize=22
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/mimes]
 Context=Mimetypes
 Size=48
-#MinSize=24
-MinSize=22
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/places]
 Context=Places
 Size=48
-#MinSize=24
-MinSize=22
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 [48/status]
 Context=Status
 Size=48
-#MinSize=24
-MinSize=22
+MinSize=24
 MaxSize=48
 Type=Scalable
 
 # -------------16-------------
 
+[16/actions]
+Context=Actions
+Size=16
+MinSize=8
+MaxSize=22
+Type=Scalable
+
 [16/apps]
 Context=Applications
 Size=16
 MinSize=8
-MaxSize=18
+MaxSize=22
 Type=Scalable
 
 [16/devices]
 Context=Devices
 Size=16
 MinSize=8
-MaxSize=18
+MaxSize=22
 Type=Scalable
 
 [16/mimes]
 Context=Mimetypes
 Size=16
 MinSize=8
-MaxSize=18
+MaxSize=22
+Type=Scalable
+
+[16/mimes]
+Context=Mimetypes
+Size=16
+MinSize=8
+MaxSize=22
 Type=Scalable
 
 [16/places]
 Context=Places
 Size=16
 MinSize=8
-MaxSize=18
+MaxSize=22
 Type=Scalable
 
 [16/status]
 Context=Status
 Size=16
 MinSize=8
-MaxSize=18
+MaxSize=22
 Type=Scalable
