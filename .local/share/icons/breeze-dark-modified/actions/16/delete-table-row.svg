@@ -1,8 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-NegativeText { color: #da4453; } </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="delete-table-row.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="46.1875"
+     inkscape:cx="7.9891746"
+     inkscape:cy="7.9891746"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="2560"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text{color:#232629;}.ColorScheme-NegativeText { color: #da4453; } </style>
   </defs>
- <path style="fill:currentColor;fill-opacity:1;stroke:none" d="M 14,2 2,2 2,14 14,14 14,3 Z m -1,1 0,10 -3,0 0,-2 -1,0 0,2 -2,0 0,-2 -1,0 0,2 -3,0 0,-10 3,0 0,2 1,0 0,-2 2,0 0,2 1,0 0,-2 z" class="ColorScheme-Text"/> 
- <path d="M 13,5 3,5 3,6.719 6.281,10 3,10 l 0,1 10,0 0,-1 -1.281,0 -4,-4 2.563,0 2.719,2.719 0,-1.438 L 11.72,6 13.001,6 Z m -2.719,5 -2.563,0 -4,-4 2.563,0 z" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-NegativeText"/>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     d="M 14,2 2,2 2,14 14,14 14,3 Z m -1,1 0,10 -3,0 0,-2 -1,0 0,2 -2,0 0,-2 -1,0 0,2 -3,0 0,-10 3,0 0,2 1,0 0,-2 2,0 0,2 1,0 0,-2 z"
+     class="ColorScheme-Text"
+     id="path1" />
+  <path
+     d="M 13,5 3,5 3,6.719 6.281,10 3,10 l 0,1 10,0 0,-1 -1.281,0 -4,-4 2.563,0 2.719,2.719 0,-1.438 L 11.72,6 13.001,6 Z m -2.719,5 -2.563,0 -4,-4 2.563,0 z"
+     style="fill:currentColor;fill-opacity:1;stroke:none"
+     class="ColorScheme-NegativeText"
+     id="path2" />
+  <path
+     style="opacity:0.3;fill:#ffffff;stroke:#cccccc;stroke-width:0.0216509"
+     d="M 2.0135318,8 V 2.0027064 H 8 13.986468 V 8 13.997294 H 8 2.0135318 Z m 4.0054127,4.005413 v -0.995941 h 0.4871448 0.4871448 v 0.995941 0.99594 H 8 9.0067659 v -0.99594 -0.995941 h 0.4871448 0.4871448 v 0.995941 0.99594 h 1.5155615 1.515562 V 8 2.9986468 H 11.496617 9.9810555 V 3.9945873 4.9905277 H 9.4939107 9.0067659 V 3.9945873 2.9986468 H 8 6.9932341 V 3.9945873 4.9905277 H 6.5060893 6.0189445 V 3.9945873 2.9986468 H 4.5033829 2.9878214 V 8 13.001353 h 1.5155615 1.5155616 z"
+     id="path3" />
 </svg>

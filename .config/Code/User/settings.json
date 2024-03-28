@@ -62,5 +62,7 @@
     "extensions.experimental.affinity": {
         "asvetliakov.vscode-neovim": 1
     },
-    "window.density.editorTabHeight": "compact"
+    "window.density.editorTabHeight": "compact",
+    "cmake.showOptionsMovedNotification": false,
+    "debug.onTaskErrors": "showErrors"
 } 
