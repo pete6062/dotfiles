@@ -1,8 +1,15 @@
+" 240421 JWP
+" load existing vim config
+"set runtimepath^=~/.vim runtimepath+=~/.vim/after
+"let &packpath = &runtimepath
+"source ~/.vimrc
+
+
 " 220824 JWP 
 " keyboard quickfix
 nnoremap z= <Cmd>call VSCodeNotify('keyboard-quickfix.openQuickFix')<CR>
 
-" map leader key.
+" set map leader key.
 let mapleader = ' '
 
 
@@ -11,6 +18,10 @@ let mapleader = ' '
 " Build all
 nnoremap <leader>ba <Cmd>call VSCodeNotify('cmake.buildAll')<CR>
 xnoremap <leader>ba <Cmd>call VSCodeNotify('cmake.buildAll')<CR>
+
+" Build target
+nnoremap <leader>bt <Cmd>call VSCodeNotify('cmake.buildWithTarget')<CR>
+xnoremap <leader>bt <Cmd>call VSCodeNotify('cmake.buildWithTarget')<CR>
 
 " Select launch target
 nnoremap <leader>st <Cmd>call VSCodeNotify('cmake.selectLaunchTarget')<CR>
@@ -75,7 +86,7 @@ nnoremap <leader>dw <Cmd>call VSCodeNotify('editor.debug.action.selectionToWatch
 xnoremap <leader>dw <Cmd>call VSCodeNotify('editor.debug.action.selectionToWatch')<CR>
 
 
-" WORKBENCH ACTIONS
+" WORKBENCH NAVIGATION
 " ################################################################################################
 nnoremap <leader>jj <Cmd>call VSCodeNotify('workbench.action.focusFirstEditorGroup')<CR>
 xnoremap <leader>jj <Cmd>call VSCodeNotify('workbench.action.focusFirstEditorGroup')<CR>

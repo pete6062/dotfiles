@@ -9,6 +9,9 @@
 export EDITOR=vim
 export HISTCONTROL=ignoredups
 
+# allow cmake and other apps find system libraries
+export LD_LIBRARY_PATH=/usr/lib
+
 # set custom terminal prompt
 PS1="\[\033[0;37m\][\u@\h \W]$\[\033[0m\] "
 export PS1

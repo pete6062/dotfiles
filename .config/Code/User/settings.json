@@ -64,5 +64,11 @@
     },
     "window.density.editorTabHeight": "compact",
     "cmake.showOptionsMovedNotification": false,
-    "debug.onTaskErrors": "showErrors"
+    "debug.onTaskErrors": "showErrors",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cmake.pinnedCommands": [
+        "workbench.action.tasks.configureTaskRunner",
+        "workbench.action.tasks.runTask"
+    ],
+    "terminal.integrated.gpuAcceleration": "off"
 } 
