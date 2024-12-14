@@ -12,6 +12,16 @@ nnoremap z= <Cmd>call VSCodeNotify('keyboard-quickfix.openQuickFix')<CR>
 " set map leader key.
 let mapleader = ' '
 
+" EDITOR
+" ################################################################################################
+" Close active window
+nnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
+xnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
+
+" Close other editors
+nnoremap <leader>wC <Cmd>call VSCodeNotify('workbench.action.closeOtherEditors')<CR>
+xnoremap <leader>wC <Cmd>call VSCodeNotify('workbench.action.closeOtherEditors')<CR>
+
 
 " C++ WITH CMAKE
 " ################################################################################################
@@ -116,15 +126,7 @@ nnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
 xnoremap <leader>jg <Cmd>call VSCodeNotify('workbench.view.scm')<CR>
 
 
-" WORKBENCH GENERAL
 " ################################################################################################
-" Close active window
-nnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
-xnoremap <leader>wc <Cmd>call VSCodeNotify('workbench.action.closeActiveEditor')<CR>
-
-" Close other editors
-nnoremap <leader>wC <Cmd>call VSCodeNotify('workbench.action.closeOtherEditors')<CR>
-xnoremap <leader>wC <Cmd>call VSCodeNotify('workbench.action.closeOtherEditors')<CR>
 
 " FIND
 " ################################################################################################
