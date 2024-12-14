@@ -17,8 +17,9 @@
     "explorer.confirmDragAndDrop": false,
 
     "editor.bracketPairColorization.enabled": false,
-    "editor.rulers": [80],
-    "editor.lineNumbers": "relative",
+    "editor.rulers": [
+        80
+    ],
     "editor.minimap.enabled": false,
     "editor.inlayHints.enabled": "off",
 
@@ -70,5 +71,6 @@
         "workbench.action.tasks.configureTaskRunner",
         "workbench.action.tasks.runTask"
     ],
-    "terminal.integrated.gpuAcceleration": "off"
+    "terminal.integrated.gpuAcceleration": "off",
+    "editor.lineNumbers": "relative"
 } 
